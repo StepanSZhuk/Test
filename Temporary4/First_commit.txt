@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 jcltyxcyixc;iycuio
 kilvyicv;icvuivu
 jlggcjclycyuc;ic
+=======
+>>>>>>> parent of 39f3212 (Update First_commit.txt)
